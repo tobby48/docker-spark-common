@@ -3,5 +3,5 @@
 
 **PULL**
 ```
-docker push tobby48/spark-common:latest
+docker push tobby48/spark-common:2.1
 ```
